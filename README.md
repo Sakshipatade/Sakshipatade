@@ -10,7 +10,7 @@ Frontend Developer with a strong foundation in building responsive and interacti
 -  Passionate about crafting modern, user-centric UI/UX  
 -  Actively building real-world projects  
 
- Reach me at: your-email@gmail.com  
+ Reach me at: sakshivpatade@gmail.com  
 
 ---
 
