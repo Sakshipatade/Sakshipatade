@@ -1,13 +1,16 @@
 # Hi , I'm Sakshi Patade  
 
- Frontend Developer | Full Stack Learner | DSA Enthusiast  
-
 ---
-
 ## About Me  
--  I’m learning JavaScript, PHP, Python & Web Development  
--  Interested in Web3 & scalable backend systems  
-    
+Frontend Developer with a strong foundation in building responsive and interactive web applications.  
+
+-  Proficient in HTML, CSS, JavaScript  
+-  Experience with PHP and Python for full-stack development  
+-  Focused on performance, clean code, and scalability  
+-  Passionate about crafting modern, user-centric UI/UX  
+-  Actively building real-world projects  
+
+ Reach me at: your-email@gmail.com  
 
 ---
 
@@ -26,7 +29,7 @@
 
 ---
 
-## 🛠️ Languages and Tools  
+##  Languages and Tools  
 
 <p align="left">  
 
@@ -36,7 +39,7 @@
 
 ---
 
-## ⚡ Tech Stack Badges  
+##  Tech Stack Badges  
 
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)  
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)  
@@ -49,6 +52,6 @@
 
 ---
 
-## 💡 Quote  
+##  Quote  
 
-"Consistency beats talent when talent doesn’t work hard." 🚀
+"Consistency beats talent when talent doesn’t work hard." 
