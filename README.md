@@ -1,5 +1,4 @@
 # Hi , I'm Sakshi Patade  
-
 ---
 ## About Me  
 Frontend Developer with a strong foundation in building responsive and interactive web applications.  
